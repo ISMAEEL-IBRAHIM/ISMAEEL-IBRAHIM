@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ISMAEEL-IBRAHIM
 - 👀 I’m interested in ...Web develpment
 - 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...nothing fo rnow
+- 💞️ I’m looking to collaborate on ...nothing for now
 - 📫 How to reach me ...no need to reach me I am a noob developer haha
 
 <!---
